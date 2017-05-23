@@ -1,2 +1,4 @@
 core
 .gdb_history
+*.swp
+*.swo
